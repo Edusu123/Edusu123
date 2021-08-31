@@ -1,6 +1,20 @@
-### Hi there 👋
+### Hey there 👋
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Edusu123&hide=html&layout=compact&theme=default)](https://github.com/iuricode/)
+## Public Information
+
+* **Name:** Eduardo Conde Pires
+* **Age:** 18
+* **Living in:** Agudos, Brazil
+* **Stack:** .NET - SQL Server
+* **University:** Unesp - Universidade Estadual Paulista
+
+## Nice informations about me
+
+- 🔭 I’m currently working on Concilig, where we develop in C#
+- 🌱 I’m currently learning Flutter
+- 📫 How to reach me: 📧 eduardo.c.pires@outlook.com
+
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Edusu123&hide=html&layout=compact&theme=radical)](https://github.com/iuricode/)
 
 <!--
 **Edusu123/Edusu123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
