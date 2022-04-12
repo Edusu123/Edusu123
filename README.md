@@ -4,15 +4,8 @@
 
 * **Name:** Eduardo Conde Pires
 * **Age:** 18
-* **Living in:** Agudos, Brazil
-* **Stack:** .NET - SQL Server
+* **Living in:** Agudos - SP, Brazil
 * **University:** Unesp - Universidade Estadual Paulista
-
-## Nice informations about me
-
-- 🔭 I’m currently working on Concilig, where we develop in C#
-- 🌱 I’m currently learning Flutter
-- 📫 How to reach me: 📧 eduardo.c.pires@outlook.com
 
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Edusu123&hide=html&layout=compact&theme=radical)](https://github.com/iuricode/)
 
