@@ -3,7 +3,7 @@
 ## Public Information
 
 * **Name:** Eduardo Conde Pires
-* **Age:** 18
+* **Age:** 19
 * **Living in:** Agudos - SP, Brazil
 * **University:** Unesp - Universidade Estadual Paulista
 
