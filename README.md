@@ -1,5 +1,3 @@
-### Hey there 👋
-
 ## Public Information
 
 * **Name:** Eduardo Conde Pires
